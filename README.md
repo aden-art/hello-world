@@ -1,2 +1,3 @@
 # hello-world
 Краткое описание...
+Junior Python developer 🐍
